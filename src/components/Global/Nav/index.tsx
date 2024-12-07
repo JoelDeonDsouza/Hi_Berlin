@@ -18,7 +18,9 @@ const Nav = () => {
           <Logo src={logo} alt="Logo" />
         </Link>
         <DetailsContainer>
-          <NavTextLinkMob>About HiBerlin</NavTextLinkMob>
+          <Link to="/about">
+            <NavTextLinkMob>About HiBerlin</NavTextLinkMob>
+          </Link>
         </DetailsContainer>
       </NavContent>
     </NavContainer>
