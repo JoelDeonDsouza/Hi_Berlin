@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "category": "Registration & Forms",
+      "items": [
+        {
+          "id": "reg-001",
+          "name": "Anmeldung Form",
+          "ctg": "Registration & Forms",
+          "link": "",
+          "routerLink": "/anmeldung",
+          "img": "https://cdn-icons-png.flaticon.com/512/3157/3157914.png",
+          "color": "#C6E7FF"
+        },
+        {
+          "id": "reg-002",
+          "name": "Anmeldung Appointments",
+          "ctg": "Registration & Forms",
+          "link": "https://service.berlin.de/terminvereinbarung/",
+          "img": "https://cdn-icons-png.flaticon.com/512/3301/3301556.png",
+          "color": "#C5D3E8"
+        }
+      ]
+    }
+  ]
+}
